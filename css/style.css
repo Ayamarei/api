@@ -1,0 +1,13 @@
+.card img{
+    height: 200px;
+}
+
+.home{
+    height: 60vh;
+    background-image: url("../pizza-3007395_1280.jpg");
+    background-size: cover;
+}
+
+.navbar li a{
+    cursor: pointer;
+}
